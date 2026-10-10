@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS / Temporary
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+temp/
+scratch/
+
+# Test output
+*.docx
+!test_template.docx

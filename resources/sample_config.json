@@ -1,0 +1,36 @@
+{
+  "student": {
+    "college": "河北大学电子信息工程学院",
+    "report_title": "学生实验报告册",
+    "term": "2026-2027学年秋学期",
+    "course_name": "C程序设计",
+    "course_id": "1326P00001-01",
+    "course_type": "必修课",
+    "grade_major": "2025级自动化",
+    "student_name": "张三",
+    "student_id": "20251234567",
+    "lab_date": "2026年9月17日",
+    "center": "电子实验教学示范中心"
+  },
+  "experiment": {
+    "is_merged": true,
+    "merged_title": "实验项目1-3：C程序的运行环境及操作方法、C语言基础、顺序结构程序设计",
+    "lab_numbers": [1, 2, 3],
+    "objectives_mode": "verbatim",
+    "formatting": {
+      "strict_black": true,
+      "zero_color_tag": true,
+      "eliminate_blank_page": true,
+      "table_first_results": true
+    }
+  },
+  "source_files": [
+    "star_correct.c",
+    "diamond.c",
+    "io_char.c",
+    "sum.c",
+    "avg.c",
+    "parallel.c",
+    "temp_convert.c"
+  ]
+}
